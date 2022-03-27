@@ -5,8 +5,7 @@
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
 - Email: <a href = "mailto:pedro.th.dev@gmail.com" target="_blank">pedro.th.dev@gmail.com</a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: The oldest person ever to have lived (whose age could be authenticated), a French woman named Jeanne Louise Calment, was 122 years old when she died in 1997. (guinnessworldrecord.com)
+- 😄 Pronouns: He/Him
 - 
 - <div align="center">
   <a href="https://github.com/Pedrothh">
