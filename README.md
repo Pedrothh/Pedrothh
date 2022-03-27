@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on Front-End (HTML5, CSS3) and Back-End (Python)
 - 🌱 I’m currently learning Python, JavaScript, PHP.
-- 📫 How to reach me: LinkedIn: https://linkedin.com/in/pedrothh/
+- 📫 How to reach me: 
+- LinkedIn: https://linkedin.com/in/pedrothh/ 
+- Email: pedro.th.dev@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The oldest person ever to have lived (whose age could be authenticated), a French woman named Jeanne Louise Calment, was 122 years old when she died in 1997. (guinnessworldrecord.com)
 - 
