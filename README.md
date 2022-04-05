@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front-End (HTML5, CSS3) and Back-End (Python)
-- 🌱 I’m currently learning JavaScript, Django, Docker.
+- 🔭 I’m currently working on Front-End (HTML5, CSS3, JavaScript) and Back-End (Python, Django).
+- 🌱 I’m currently learning Docker, kubernetes, GoLang.
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
 - Email: <a href = "mailto:pedro.th.dev@gmail.com" target="_blank">pedro.th.dev@gmail.com</a>
