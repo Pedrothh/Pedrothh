@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front-End (HTML5, CSS3, JavaScript) and Back-End (Python, Django).
+- 🔭 I have knowledge of HTML, CSS, JavaScript, Python, Django, Java, Angular.
 - 🌱 I’m currently learning Docker, kubernetes, GoLang.
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
