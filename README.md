@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I have knowledge of HTML, CSS, JavaScript, Python, Django, Java, Angular.
+- 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also React/NextJS and Angular to Front-ends.
 - 🌱 I’m currently learning Docker, kubernetes, GoLang.
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
 - Email: <a href = "mailto:pedro.th.dev@gmail.com" target="_blank">pedro.th.dev@gmail.com</a>
 - 😄 Pronouns: He/Him
 - 
-- <div align="center">
+<div align="center">
   <a href="https://github.com/Pedrothh">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrothh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrothh&layout=compact&langs_count=7&theme=dracula"/> <br>
