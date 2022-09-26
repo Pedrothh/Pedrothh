@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also React/NextJS and Angular to Front-ends.
+- 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also Angular to Front-ends.
 - 🌱 I’m currently learning Docker, kubernetes, GoLang.
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
