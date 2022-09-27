@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also Angular to Front-ends.
-- 🌱 I’m currently learning Docker, kubernetes, GoLang.
+- 🌱 I’m currently learning more Spring Boot, also Angular, kubernetes and to soon GoLang.
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
 - Email: <a href = "mailto:pedro.th.dev@gmail.com" target="_blank">pedro.th.dev@gmail.com</a>
