@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also Angular to Front-ends.
-- 🌱 I’m currently learning more Spring Boot, also Angular, kubernetes and to soon GoLang.
+- 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also React/node to Front-ends to Web Development and Automation API/backend Tests with Cypress (javascript) and Rest Assured (java), e2e Tests with Selenium and also Cypress, Performance Tests with JMeter and Locust, and others types of tests.
+- 🌱 I’m currently learning more Spring Boot, also React, kubernetes and to soon GoLang.
 - 📫 How to reach me: 
 - LinkedIn: https://linkedin.com/in/pedrothh/ 
 - Email: <a href = "mailto:pedro.th.dev@gmail.com" target="_blank">pedro.th.dev@gmail.com</a>
