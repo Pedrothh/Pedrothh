@@ -1,11 +1,37 @@
-### Hi there 👋
+# Hi there 
 
-- 🔭 I have knowledge of Django to Python Projects, Spring Boot to Java, and, also React/node to Front-ends to Web Development and Automation API/backend Tests with Cypress (javascript) and Rest Assured (java), e2e Tests with Selenium and also Cypress, Performance Tests with JMeter and Locust, and others types of tests.
-- 🌱 I’m currently learning more of Quality Assurance Engineer and CI/CD on Automation Testers.
-- 📫 How to reach me: 
-- LinkedIn: https://linkedin.com/in/pedrothh/ 
-- Email: <a href = "mailto:pedro.th.dev@gmail.com" target="_blank">pedro.th.dev@gmail.com</a>
-- 😄 Pronouns: He/Him
+**I'm a versatile web developer and test automation engineer, eager to tackle challenging projects and deliver exceptional outcomes.**
+
+**Key Skills:**
+
+* **Development Frameworks:**
+  * Django (Python)
+  * Spring Boot (Java)
+  * React/Node.js
+* **Test Automation:**
+  * API/Backend Testing: Cypress (JavaScript), Rest Assured (Java)
+  * End-to-End Testing: Selenium, Cypress
+  * Performance Testing: JMeter, Locust
+  * Open to exploring additional tools as needed
+
+* **Strengths:**
+  * Full-stack proficiency across front-end, back-end, and testing domains
+  * Diverse testing toolkit for comprehensive coverage
+  * Experience with performance testing to ensure responsiveness and scalability
+  * Continuous learner, always adapting to new technologies
+
+* **Currently Learning:**
+
+  * Quality Assurance Engineering
+  * CI/CD for Automation Testers
+
+* **Connect with Me:**
+
+  * LinkedIn: https://linkedin.com/in/pedrothh/
+  * Email: pedro.th.dev@gmail.com
+ * Pronouns: He/Him
+
+**GitHub Stats:**
 - 
 <div align="center">
   <a href="https://github.com/Pedrothh">
