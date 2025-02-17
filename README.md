@@ -5,9 +5,11 @@
 **Key Strengths in Quality Assurance:**
 
 * **Comprehensive Test Automation Expertise:**
-  * API/Backend Testing: Proficient with Cypress (JavaScript) and Rest Assured (Java) for validating robust API integrations.
-  * End-to-End Testing: Hands-on experience with Selenium and Cypress to deliver seamless user experiences.
+  * API/Backend Testing: Proficient with Cypress (JavaScript), Rest Assured (Java) and Robot Framework (Python) for validating robust API integrations.
+  * End-to-End Testing: Hands-on experience with Cypress, Selenium and Robot Framework to deliver seamless user experiences.
   * Performance Testing: Skilled in tools like JMeter and Locust for ensuring system responsiveness under diverse loads.
+  * Mobile Testing: Skilled in Appium for cross-platform mobile automation, enabling seamless testing across Android and iOS platforms, using Android Studio for Android emulators and Xcode for iOS simulators.
+  * Familiar with integrating mobile tests into CI/CD pipelines for continuous testing and delivery.
 
 * **Strategic Testing Mindset:**
   * Adept at identifying critical paths and high-risk areas to focus testing efforts effectively.
